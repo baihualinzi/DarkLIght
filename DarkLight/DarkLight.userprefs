@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\PlayerwalkAnim.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\PlayerStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\Wolfbaby.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\Shortcutkey.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Magicsphere.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Chracter\checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Custom\GameLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\ExpBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\playerMove.cs" Line="31" Column="14" />
+      <File FileName="Assets\Scripts\Player\PlayerwalkAnim.cs" Line="25" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
